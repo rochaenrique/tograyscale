@@ -11,10 +11,10 @@ Output image format is detected by the ```<output>``` file extension.
 - JPG
 
 ## TODO: 
-[ ] Support for HDR.
-[ ] Option to pick format.
-[ ] Options on how to extract value from rgb and rgba.
-[ ] More advanced command line argument parsing and --help.
-[ ] Add general format converting between images.
+- [ ] Support for HDR.
+- [ ] Option to pick format.
+- [ ] Options on how to extract value from rgb and rgba.
+- [ ] More advanced command line argument parsing and --help.
+- [ ] Add general format converting between images.
 
 [tools.h repository.](https://github.com/rochaenrique/tools.h)
